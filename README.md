@@ -1,2 +1,3 @@
-# olaitan_portfoli
-Olaitan The Analyst Portfolio
+# Olaitan The Analyst Portfolio
+# PROJECT LOADING-------------------
+
